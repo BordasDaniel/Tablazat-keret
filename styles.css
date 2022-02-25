@@ -1,0 +1,62 @@
+
+*{
+    padding: 30px;
+}
+
+
+body{
+    background-color: thistle;
+}
+
+
+
+
+.szoveg{
+border: 10px orange solid;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+margin: 50px;
+}
+
+.pont{
+border: 20px dotted blue;
+color: green;
+text-align: left;
+font-family: 'Courier New', Courier, monospace;
+margin: 70px;
+font-size:  100%;
+}
+
+.piros{
+
+    border-collapse: collapse;
+    border: red ridge 30px ;
+    margin: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 120% ;
+    text-align: right;
+    color: yellow;
+}
+
+caption{
+    text-align: center;
+}
+
+
+
+
+table, th, td{
+    padding: 0px;
+    border: blue solid 1px;
+}
+
+th{
+    text-align: center;
+    height: 100px;
+    background: red;
+}
+
+td{
+    text-align: left;
+    background-color: yellow;
+}
